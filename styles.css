@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+li{
+	list-style-type:none;
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+
+body>div, ul{
+	border: black solid 1px;
+	border-radius:5px
+}
