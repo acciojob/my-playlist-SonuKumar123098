@@ -17,9 +17,9 @@ audio, video{
 	border-radius:5px;
 }
 a{
-	text-decoration-line: none
+	text-decoration-line: none;
 }
 body>div, ul{
 	border: black solid 1px;
-	border-radius:5px
+	border-radius:5px;
 }
