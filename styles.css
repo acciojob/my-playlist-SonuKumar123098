@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 li{
-	list-style-type:none;
+	list-style-type: none;
 }
 h1{
 	text-align:center;
@@ -11,18 +11,16 @@ h2{
 body{
 	background-color:rgb(204, 204, 204);
 }
-audio, video{
+.player_one, .player_two{
 	background-color:rgb(255, 255, 255);
 	padding:2px;
 	border-radius:5px;
 }
+.
 a{
 	text-decoration-line: none;
 }
 body>div, ul{
 	border: black solid 1px;
 	border-radius:5px;
-}
-ul{
-	list-style-type: none;
 }
